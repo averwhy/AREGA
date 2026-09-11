@@ -22,9 +22,6 @@ Everything you need to know to run the SNHU Esports Arena, from setting up PC's 
 ## PC Management
 This section covers everything from setting up new PC's, to troubleshooting common issues, update assurance, and more.
 
-> [!NOTE]
-> Useful information that users should know even when skimming content.
-
 ### PC Setup / PC Resetting
 
 ### Installing Software / Software List
