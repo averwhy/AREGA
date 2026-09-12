@@ -34,9 +34,12 @@ h4 { margin: 30px 0 10px; font-size: 25px; letter-spacing: -.025em; }
 p, li { color: #c0cad6; font-size: 18px; line-height: 1.75; letter-spacing: .045em; }
 ul { margin: 0 0 50px; padding-left: 1.5rem; list-style: disc; }
 li { padding: 0; }.intro-meta + h2 + ul a { color: #edf2f7; text-decoration: none; }.intro-meta + h2 + ul a:hover { color: #e8bd55; }
-blockquote { margin: 42px 0 95px; border-left: 2px solid #e8bd55; padding: 2px 0 2px 22px; }.intro-meta + h2 + ul + h2 { margin-top: 0; }
-blockquote::before, blockquote::after { content: none; }
-blockquote strong { color: #edf2f7; font-size: 13px; letter-spacing: .03em; } blockquote p { margin: 0; font-size: 14px; line-height: 1.6; }
+blockquote { margin: 42px 0 95px; border-left: 2px solid #e8bd55; padding: 2px 0 2px 22px; font-style: normal; }.intro-meta + h2 + ul + h2 { margin-top: 0; }
+blockquote p:first-of-type::before,
+blockquote p:last-of-type::after {
+    content: none;
+}
+blockquote strong { color: #edf2f7; font-size: 13px; letter-spacing: .03em; } blockquote p { margin: 0; font-size: 16px; line-height: 1.6; }
 blockquote[data-github-alert] strong { display: block; margin-bottom: 3px; }
 blockquote[data-github-alert="note"] { border-left-color: #38bdf8; }
 blockquote[data-github-alert="note"] strong { color: #38bdf8; }
@@ -56,7 +59,7 @@ pre { overflow-x: auto; margin: 30px 0 46px; padding: 24px; border: 1px solid #2
 .docs-page.prose :where(a) { color: #e8bd55; }
 .docs-page.prose :where(a):hover { color: #f4d98a; }
 .docs-page.prose :where(code):not(:where([class~='not-prose'] *)) { color: #e8bd55; background: #16243a; }
-.docs-page.prose :where(code):not(:where([class~='not-prose'] *))::before,
+.docs-page.prose :where(code):not(:where([class~='not-prose'] *))::before { content: none; }
 .docs-page.prose :where(code):not(:where([class~='not-prose'] *))::after { content: none; }
 
 @layer base {

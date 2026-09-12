@@ -54,9 +54,14 @@ This section covers everything from setting up new PC's, to troubleshooting comm
 ## Misc Arena Technologies
 
 ### Lighting
-The most important lighting in the arena is the overhead lights. These are controlled by a Mac laptop in the streaming booth, and the software used to control them is called ADJ myDMX. The lighting profile for the arena is called 'Arena', and it should be selected when opening the arena. This will turn on the overhead lights to blue.
+The most important lighting in the arena is the overhead lights. These are controlled by a Mac laptop in the streaming booth, and the software used to control them is called ADJ myDMX. 
 
-If you want to turn the lights off, you can select the 'Blackout' lighting profile.
+To turn the lights on, select the 'Arena' lighting profile. It should be selected when opening the arena. This will turn on the overhead lights to blue.
+
+If you want to turn the lights *off*, you can select the 'Blackout' lighting profile.
+	
+> [!TIP]
+> There are some other lighting profiles such as a halloween and christmas profile. If you know a little bit about lighting, you can also create your own lighting profiles.
 
 ### 
 
