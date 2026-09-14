@@ -27,7 +27,7 @@ I noticed in my time as a tech that there were a few steps that were missed when
 
 1. Head over to the Mac laptop in the streaming booth and unlock it. The password is to the right of the trackpad. You should see the ADJ myDMX software open (if not, open it with Cmd+Space, and type myDMX). You should then select the 'Caster' lighting profile. This will turn on the overhead lights to blue. **I consider this a essential step of opening the arena**, as it makes the arena look more professional and welcoming to players.
 2. Turn on the 'gobo' projecter behind the casters desk. The remote is a white remote with 'A' and 'B' buttons. 'A' turns it on and off. This is another essential step that adds to the professionalism of the arena.
-3. Remember to always turn on the Brightsign TV's in front of the front row of PC's. The remote for this has a blue on button and red off button, with 'NEC' labelled at the bottom.
+3. Remember to always turn on the Brightsign TV's in front of the front row of PC's. The remote for this has a blue on button and red off button, with 'NEC' labeled at the bottom.
 3. Lastly, when putting on a stream on the TV's, I'd look for any professional esports streams that are live on Twitch. You can play lo-fi music in the background with the stream muted, or you can just play the stream with sound.
 
 ### Check In's
@@ -132,7 +132,7 @@ Lastly, install GGLeap. After it restarts with the GGLeap screen, you'll need to
 9. Click Apply, and a prompt should appear asking for credentials. Enter the GGLeap user account password (not your GGLeap admin pw).
 10. Click Ok to close that window, and restart again. Tada!
 
-I noticed that with the new Lenovo PC's, they sometimes came with Norton. Long story short, it's a awful antivirus software that isn't needed and absolutely should be uninstalled. The best way to do this is open Windows Settings, search for 'Add and Remove' Programs. Search for Norton and uninstall every entry there. **Be careful navigating through the uninstall prompts, as it tries to trick you to stay installed. You want everything removed.** (Note that if you're setting up a reset PC, McAfee is most likely not installed, as it's a fresh copy of Windows.)
+I noticed that with the new Lenovo PC's, they sometimes came with Norton. Long story short, it's a awful antivirus software that isn't needed and absolutely should be uninstalled. The best way to do this is open Windows Settings, search for 'Add and Remove' Programs. Search for Norton and uninstall every entry there. **Be careful navigating through the uninstall prompts, as it tries to trick you to stay installed. You want everything removed.** (Note that if you're setting up a reset PC, it's most likely not installed, as it's a fresh copy of Windows.)
 
 ## GGLeap Management
 
